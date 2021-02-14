@@ -5,7 +5,7 @@
 - 👄 I speak French, English, Hebrew and Spanish
 - 💬 LinkedIn: www.linkedin.com/in/Jordan-Buddy-Perez
 - 📫 Email: jordanlloydperez@gmail.com
-- ❤️ Hobbies: Music 🥁, Programming 💻, Cinema 🎬 and Sport ⚽
+- ❤️ Hobbies: Music 🥁 Programming 💻 Cinema 🎬 and Sport ⚽
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jewgah&theme=radical&layout=compact" />
