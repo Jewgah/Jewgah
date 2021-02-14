@@ -5,7 +5,7 @@
 - 👄 I speak French, English, Hebrew and Spanish
 - 💬 LinkedIn: www.linkedin.com/in/Jordan-Buddy-Perez
 - 📫 Email: jordanlloydperez@gmail.com
-- ❤️ Hobbies: Music, Programming, Cinema and Sport
+- ❤️ Hobbies: Music 🥁, Programming 💻, Cinema 🎬 and Sport ⚽
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jewgah&theme=radical&layout=compact" />
@@ -26,7 +26,7 @@
 
 <h2 align="left">Tools  🛠</h2>
 <p align="left"> 
-<a href="https://www.Canva.com//" title="Canva"> <img src="https://lh3.googleusercontent.com/proxy/mUSYC1dQsY3-oA5PssdfgQi7mcWLc_iKT_J9YYh3g7wrz-X0LNphFwZ6jDdBs8I-GzIWPeoCT5extKAZt5tDQCnLBNkQrqVGc9ljgawWHE5jpgVwBtzKywi1Zn4cLIG-bso6znEZzgbc8G4Xq_ASJTSd3JZAxOYFkpz9Zyk" alt="Linkedin" width="40" height="40"/></a>
+<a href="https://www.Canva.com/" title="Canva"> <img src="https://lh3.googleusercontent.com/proxy/mUSYC1dQsY3-oA5PssdfgQi7mcWLc_iKT_J9YYh3g7wrz-X0LNphFwZ6jDdBs8I-GzIWPeoCT5extKAZt5tDQCnLBNkQrqVGc9ljgawWHE5jpgVwBtzKywi1Zn4cLIG-bso6znEZzgbc8G4Xq_ASJTSd3JZAxOYFkpz9Zyk" alt="Linkedin" width="40" height="40"/></a>
 <a href="https://www.linkedin.com/in/jordan-buddy-perez/" title="Linkedin"> <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="Linkedin" width="40" height="40"/></a>
 <a href="https://www.jetbrains.com/clion/" title="CLion"> <img src="https://github.com/get-icon/geticon/blob/master/logos/clion.svg" alt="CLion" width="40" height="40"/>  </a>  
 <a href="https://www.jetbrains.com/idea/" title="Intellij IDEA"> <img src="https://github.com/get-icon/geticon/blob/master/logos/intellij-idea.svg" alt="Intellij IDEA" width="40" height="40"/></a>  
