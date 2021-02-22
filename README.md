@@ -1,5 +1,5 @@
 <h1 align="center">Hello There 😉 I'm Jordan but everyone calls me Jordi !</h1>
-<h3 align="center">Computer Science student @Ariel University</h3>
+<h3 align="center">Computer Science Student @Ariel University</h3>
 
 - 📌 French Student living in Israel
 - 👄 I speak French, English, Hebrew and Spanish
