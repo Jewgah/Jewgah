@@ -27,11 +27,14 @@
 <h2 align="left">Tools  🛠</h2>
 <p align="left"> 
 <a href="https://www.Canva.com/" title="Canva"> <img src="https://lh3.googleusercontent.com/proxy/mUSYC1dQsY3-oA5PssdfgQi7mcWLc_iKT_J9YYh3g7wrz-X0LNphFwZ6jDdBs8I-GzIWPeoCT5extKAZt5tDQCnLBNkQrqVGc9ljgawWHE5jpgVwBtzKywi1Zn4cLIG-bso6znEZzgbc8G4Xq_ASJTSd3JZAxOYFkpz9Zyk" alt="Linkedin" width="40" height="40"/></a>
+<a href="https://www.sublimetext.com/" title="SublimeText"> <img src="https://upload.wikimedia.org/wikipedia/fr/7/78/Sublime_text_logo.png" alt="Linkedin" width="40" height="40"/></a>
 <a href="https://www.linkedin.com/in/jordan-buddy-perez/" title="Linkedin"> <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="Linkedin" width="40" height="40"/></a>
 <a href="https://www.jetbrains.com/clion/" title="CLion"> <img src="https://github.com/get-icon/geticon/blob/master/logos/clion.svg" alt="CLion" width="40" height="40"/>  </a>  
 <a href="https://www.jetbrains.com/idea/" title="Intellij IDEA"> <img src="https://github.com/get-icon/geticon/blob/master/logos/intellij-idea.svg" alt="Intellij IDEA" width="40" height="40"/></a>  
 <a href="https://www.jetbrains.com/pycharm/" target="PyCharm"> <img src="https://github.com/get-icon/geticon/blob/master/logos/pycharm.svg" alt="PyCharm" width="40" height="40"/></a>
 <a href="https://www.wireshark.org/" title="WireShark"> <img src="https://pbs.twimg.com/profile_images/539598799732097024/CAAUmNO1.png" alt="WireShark" width="45" height="40"/></a>
-
+<a href="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" target="VM"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" alt="git" width="40" height="40"/>  </a>
+<a href="https://camo.githubusercontent.com/c6c59fae1822ee2c903f9ae6d6e1c8f1f602c7a922aac7b08ebddadc27065001/68747470733a2f2f7365656473656375726974796c6162732e6f72672f6173736574732f696d616765732f736565645f6c6162735f622e706e67" target="VM"> <img src="https://camo.githubusercontent.com/c6c59fae1822ee2c903f9ae6d6e1c8f1f602c7a922aac7b08ebddadc27065001/68747470733a2f2f7365656473656375726974796c6162732e6f72672f6173736574732f696d616765732f736565645f6c6162735f622e706e67" alt="git" width="100" height="40"/>  </a>
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Tux-simple.svg/154px-Tux-simple.svg.png" title="Linux"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Tux-simple.svg/154px-Tux-simple.svg.png" alt="WireShark" width="40" height="40"/></a>
 </p>
 
