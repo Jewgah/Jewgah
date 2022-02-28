@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Student @Ariel University</h3>
 
 - 📌 French Student living in Israel
-- 👄 I speak French, English, Hebrew and Spanish
+- 👄 I speak French, English and Hebrew fluently
 - 💬 LinkedIn: www.linkedin.com/in/Jordan-Buddy-Perez
 - 📫 Email: jordanlloydperez@gmail.com
 - ❤️ Hobbies: Music 🥁 Programming 💻 Cinema 🎬 and Sport ⚽
