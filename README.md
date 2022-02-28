@@ -22,6 +22,11 @@
 <a href="https://www.python.org" title="Python"> <img src="https://github.com/Jewgah/MyIcons/blob/master/python.svg" alt="python" width="40" height="40"/>  </a>  
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"> <img src="https://github.com/Jewgah/MyIcons/blob/master/c.svg" alt="C" width="40" height="40"/>  </a>
 <a href="https://en.wikipedia.org/wiki/HTML5" title="HTML5"> <img src="https://github.com/Jewgah/MyIcons/blob/master/HTML5.png" alt="HTML5" width="40" height="40"/>  </a>   
+<a href="https://fr.wikipedia.org/wiki/C%2B%2B" title="C++"> <img src="https://github.com/Jewgah/MyIcons/blob/master/cpp.jpg" alt="C++" width="40" height="40"/>  </a> 
+<a href="https://www.javascript.com/" title="Javascript"> <img src="https://github.com/Jewgah/MyIcons/blob/master/javascript.jpg" alt="JS" width="40" height="40"/>  </a> 
+ <a href="https://reactjs.org/" title="React"> <img src="https://github.com/Jewgah/MyIcons/blob/master/react.png" alt="React" width="40" height="40"/>  </a> 
+<a href="https://www.mongodb.com/" title="MongoDB"> <img src="https://github.com/Jewgah/MyIcons/blob/master/mongodb.jpg" alt="MongoDB" width="40" height="40"/>  </a> 
+<a href="https://www.mysql.com/" title="MySQL"> <img src="https://github.com/Jewgah/MyIcons/blob/master/mysql.jpg" alt="MySQL" width="40" height="40"/>  </a> 
 </p>
 
 <h2 align="left">Tools  🛠</h2>
@@ -37,5 +42,8 @@
 <a href="https://www.virtualbox.org/" title="VirtualBox"> <img src="https://github.com/Jewgah/MyIcons/blob/master/Virtualbox_logo.png" alt="VirtualBox" width="40" height="40"/>  </a>
 <a href="https://github.com/seed-labs/seed-labs" title="SeedLabs"> <img src="https://github.com/Jewgah/MyIcons/blob/master/SEED.png" alt="SeedLabs" width="100" height="40"/>  </a>
 <a href="https://en.wikipedia.org/wiki/Linux" title="Linux"> <img src="https://github.com/Jewgah/MyIcons/blob/master/Linux.png" alt="Linux" width="40" height="40"/></a>
+ <a href="https://code.visualstudio.com/" title="Visual Studio Code"> <img src="https://github.com/Jewgah/MyIcons/blob/master/visualstudiocode.png" alt="Visual Studio Code" width="40" height="40"/></a>
+ <a href="https://firebase.google.com/" title="Firebase"> <img src="https://github.com/Jewgah/MyIcons/blob/master/firebase.jpg" alt="Firebase" width="40" height="40"/></a>
+ <a href="https://developer.android.com/studio/" title="Android Studio"> <img src="https://github.com/Jewgah/MyIcons/blob/master/androidstudio.jpg" alt="Android Studio" width="40" height="40"/></a>
 </p>
 
