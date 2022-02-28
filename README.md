@@ -44,6 +44,6 @@
 <a href="https://en.wikipedia.org/wiki/Linux" title="Linux"> <img src="https://github.com/Jewgah/MyIcons/blob/master/Linux.png" alt="Linux" width="40" height="40"/></a>
  <a href="https://code.visualstudio.com/" title="Visual Studio Code"> <img src="https://github.com/Jewgah/MyIcons/blob/master/visualstudiocode.png" alt="Visual Studio Code" width="40" height="40"/></a>
  <a href="https://firebase.google.com/" title="Firebase"> <img src="https://github.com/Jewgah/MyIcons/blob/master/firebase.jpg" alt="Firebase" width="40" height="40"/></a>
- <a href="https://developer.android.com/studio/" title="Android Studio"> <img src="https://github.com/Jewgah/MyIcons/blob/master/androidstudio.jpg" alt="Android Studio" width="40" height="40"/></a>
+ <a href="https://developer.android.com/studio/" title="Android Studio"> <img src="https://github.com/Jewgah/MyIcons/blob/master/androidstudio.svg" alt="Android Studio" width="40" height="40"/></a>
 </p>
 
