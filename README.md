@@ -1,7 +1,8 @@
 <h1 align="center">Hello There 😉 I'm Jordan but everyone calls me Jordi !</h1>
-<h3 align="center">Computer Science Student @Ariel University</h3>
+<h3 align="center">Mathematics & Computer Science BCs Student @Ariel University</h3>
 
 - 📌 French Student living in Israel
+- 💻 Full-Stack developer @DPO Group
 - 👄 I speak French, English and Hebrew fluently
 - 💬 LinkedIn: www.linkedin.com/in/Jordan-Buddy-Perez
 - 📫 Email: jordanlloydperez@gmail.com
