@@ -1,5 +1,5 @@
 <h1 align="center">Hello There 😉 I'm Jordan but everyone calls me Jordi !</h1>
-<h3 align="center">French Junior Full-Stack developer living in Israel</h3>
+<h3 align="center">French/Israeli Full-Stack developer living in Israel</h3>
 <h3 align="center">Mathematics & Computer Science BSc from @Ariel University</h3>
 
 - 👄 I speak French, English and Hebrew fluently
