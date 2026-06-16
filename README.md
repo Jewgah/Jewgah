@@ -24,7 +24,7 @@ build to deploy, talking <b>directly with clients</b> to turn their needs into s
   <a href="https://jordanperez.dev"><img src="https://img.shields.io/badge/My%20Folio-jordanperez.dev-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="My Folio" /></a>
   <a href="https://hakolkal.com"><img src="https://img.shields.io/badge/Hakolkal-hakolkal.com-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Hakolkal" /></a>
   <a href="mailto:jordanlloydperez@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/Jewgah"><img src="https://img.shields.io/github/followers/Jewgah?style=for-the-badge&logo=github&logoColor=white&label=Follow&color=181717" alt="GitHub followers" /></a>
+  <a href="https://github.com/Jewgah"><img src="https://img.shields.io/badge/Follow-%40Jewgah-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow @Jewgah on GitHub" /></a>
 </p>
 
 ---
